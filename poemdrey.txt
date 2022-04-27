@@ -2,6 +2,8 @@ the quick brown fox is a rainbow
 brown
 green
 purple
+indigo
+skyblue
 blue
 yellow
 rainbow
