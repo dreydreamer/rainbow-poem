@@ -1,1 +1,6 @@
 the quick brown fox is a rainbow
+brown
+green
+purple
+blue
+yellow
