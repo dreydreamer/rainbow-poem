@@ -5,3 +5,6 @@ purple
 blue
 yellow
 rainbow
+
+add some drinks
+coke
