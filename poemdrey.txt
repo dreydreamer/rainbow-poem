@@ -4,3 +4,4 @@ green
 purple
 blue
 yellow
+rainbow
